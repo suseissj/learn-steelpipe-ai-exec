@@ -12,3 +12,4 @@
 | 5 learner | GUIDE.md 작성 — 기대값 16개 모두 등장, 정답 재실행 16/16 일치. 매뉴얼 덱은 만들지 않음(선택) | 2026-11-01 |
 | 교재 ch1~3 | textbook/ch1~3.md + 그림 2장, 검수(①②③) 후 수정 → Robot_Value_Chain_Textbook.docx·pdf (16쪽) — 승인 | 2026-11-01 |
 | 강의 덱 | deck/SteelPipe_AI_Lecture_Deck.pptx·pdf 19장 (report-navy-deck field 20pt, 숫자는 facts.csv + [S번호]) — 승인 | 2026-11-01 |
+| 6 publish | 승인 ③ (public) · 저장소 https://github.com/suseissj/learn-steelpipe-ai-exec · 사이트 https://suseissj.github.io/learn-steelpipe-ai-exec/ (built, 200 확인) · 첫 커밋 ac51184 · zip ../learn-steelpipe-ai-exec.zip · publish_check 오류 0 · verify 16/16 | 2026-11-01 |
