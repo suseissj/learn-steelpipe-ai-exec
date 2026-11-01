@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 640" width="1600" height="640">
+<style>@import url('https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css');text{font-family:'Pretendard Variable',Pretendard,'Malgun Gothic',sans-serif}</style>
+<rect width="1600" height="640" fill="#ffffff"/>
+<rect x="20" y="20" width="284" height="130" rx="12" fill="#14284b"/>
+<text x="162.0" y="98" font-size="36" font-weight="700" fill="#fff" text-anchor="middle">코일 투입</text>
+<path d="M307 85 L328 85" stroke="#14284b" stroke-width="4"/><path d="M326 76 L335 85 L326 94 Z" fill="#14284b"/>
+<rect x="20" y="176" width="284" height="190" rx="12" fill="#f5f7fa" stroke="#d5dbe5" stroke-width="2"/>
+<text x="162.0" y="256" font-size="32" font-weight="600" fill="#1d2433" text-anchor="middle">규격·재질</text>
+<text x="162.0" y="302" font-size="32" font-weight="600" fill="#1d2433" text-anchor="middle">성적서</text>
+<path d="M162.0 372 L162.0 404" stroke="#5b6475" stroke-width="3"/>
+<rect x="20" y="410" width="284" height="210" rx="12" fill="#ffffff" stroke="#14284b" stroke-width="4"/>
+<text x="162.0" y="500" font-size="34" font-weight="700" fill="#14284b" text-anchor="middle">소재 편차와</text>
+<text x="162.0" y="548" font-size="34" font-weight="700" fill="#14284b" text-anchor="middle">불량 관계</text>
+<rect x="334" y="20" width="284" height="130" rx="12" fill="#14284b"/>
+<text x="476.0" y="98" font-size="36" font-weight="700" fill="#fff" text-anchor="middle">조관(성형)</text>
+<path d="M621 85 L642 85" stroke="#14284b" stroke-width="4"/><path d="M640 76 L649 85 L640 94 Z" fill="#14284b"/>
+<rect x="334" y="176" width="284" height="190" rx="12" fill="#f5f7fa" stroke="#d5dbe5" stroke-width="2"/>
+<text x="476.0" y="256" font-size="32" font-weight="600" fill="#1d2433" text-anchor="middle">롤 회전·전류</text>
+<text x="476.0" y="302" font-size="32" font-weight="600" fill="#1d2433" text-anchor="middle">진동</text>
+<path d="M476.0 372 L476.0 404" stroke="#5b6475" stroke-width="3"/>
+<rect x="334" y="410" width="284" height="210" rx="12" fill="#fdf1e8" stroke="#e8772e" stroke-width="4"/>
+<text x="476.0" y="500" font-size="34" font-weight="700" fill="#e8772e" text-anchor="middle">롤·베어링</text>
+<text x="476.0" y="548" font-size="34" font-weight="700" fill="#e8772e" text-anchor="middle">예지보전</text>
+<rect x="648" y="20" width="284" height="130" rx="12" fill="#14284b"/>
+<text x="790.0" y="98" font-size="36" font-weight="700" fill="#fff" text-anchor="middle">ERW 용접</text>
+<path d="M935 85 L956 85" stroke="#14284b" stroke-width="4"/><path d="M954 76 L963 85 L954 94 Z" fill="#14284b"/>
+<rect x="648" y="176" width="284" height="190" rx="12" fill="#f5f7fa" stroke="#d5dbe5" stroke-width="2"/>
+<text x="790.0" y="256" font-size="32" font-weight="600" fill="#1d2433" text-anchor="middle">용접 전류</text>
+<text x="790.0" y="302" font-size="32" font-weight="600" fill="#1d2433" text-anchor="middle">전압·속도</text>
+<path d="M790.0 372 L790.0 404" stroke="#5b6475" stroke-width="3"/>
+<rect x="648" y="410" width="284" height="210" rx="12" fill="#ffffff" stroke="#14284b" stroke-width="4"/>
+<text x="790.0" y="500" font-size="34" font-weight="700" fill="#14284b" text-anchor="middle">이상 조건</text>
+<text x="790.0" y="548" font-size="34" font-weight="700" fill="#14284b" text-anchor="middle">경보</text>
+<rect x="962" y="20" width="284" height="130" rx="12" fill="#14284b"/>
+<text x="1104.0" y="98" font-size="36" font-weight="700" fill="#fff" text-anchor="middle">비파괴검사</text>
+<path d="M1249 85 L1270 85" stroke="#14284b" stroke-width="4"/><path d="M1268 76 L1277 85 L1268 94 Z" fill="#14284b"/>
+<rect x="962" y="176" width="284" height="190" rx="12" fill="#f5f7fa" stroke="#d5dbe5" stroke-width="2"/>
+<text x="1104.0" y="256" font-size="32" font-weight="600" fill="#1d2433" text-anchor="middle">검사 신호</text>
+<text x="1104.0" y="302" font-size="32" font-weight="600" fill="#1d2433" text-anchor="middle">판정 결과</text>
+<path d="M1104.0 372 L1104.0 404" stroke="#5b6475" stroke-width="3"/>
+<rect x="962" y="410" width="284" height="210" rx="12" fill="#ffffff" stroke="#14284b" stroke-width="4"/>
+<text x="1104.0" y="500" font-size="34" font-weight="700" fill="#14284b" text-anchor="middle">판정 보조</text>
+<text x="1104.0" y="548" font-size="34" font-weight="700" fill="#14284b" text-anchor="middle">불량 분류</text>
+<rect x="1276" y="20" width="284" height="130" rx="12" fill="#14284b"/>
+<text x="1418.0" y="98" font-size="36" font-weight="700" fill="#fff" text-anchor="middle">절단·출하</text>
+<rect x="1276" y="176" width="284" height="190" rx="12" fill="#f5f7fa" stroke="#d5dbe5" stroke-width="2"/>
+<text x="1418.0" y="256" font-size="32" font-weight="600" fill="#1d2433" text-anchor="middle">생산 본수</text>
+<text x="1418.0" y="302" font-size="32" font-weight="600" fill="#1d2433" text-anchor="middle">로트 기록</text>
+<path d="M1418.0 372 L1418.0 404" stroke="#5b6475" stroke-width="3"/>
+<rect x="1276" y="410" width="284" height="210" rx="12" fill="#ffffff" stroke="#14284b" stroke-width="4"/>
+<text x="1418.0" y="500" font-size="34" font-weight="700" fill="#14284b" text-anchor="middle">로트별</text>
+<text x="1418.0" y="548" font-size="34" font-weight="700" fill="#14284b" text-anchor="middle">품질 추적</text>
+</svg>

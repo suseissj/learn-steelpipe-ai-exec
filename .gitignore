@@ -1,0 +1,10 @@
+env_check.txt
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+out/
+expected.json
+!.claude/skills/learn-steelpipe-ai-exec/assets/answers/expected.json

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560">
+<style>@import url('https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css');text{font-family:'Pretendard Variable',Pretendard,'Malgun Gothic',sans-serif}</style>
+<rect width="1200" height="560" fill="#ffffff"/>
+<text x="30" y="44" font-size="26" font-weight="700" fill="#14284b">철관 밸류체인 지도 — 공정별 데이터와 AI 적용 지점</text>
+<text x="30" y="74" font-size="16" fill="#5b6475">위: 공정 · 가운데: 쌓이는 데이터 · 아래: AI가 할 수 있는 일 (주황 = 이 강의 1순위 후보 영역)</text>
+<rect x="30" y="100" width="204" height="110" rx="10" fill="#14284b"/>
+<text x="132.0" y="148" font-size="22" font-weight="700" fill="#fff" text-anchor="middle">코일 투입</text>
+<text x="132.0" y="180" font-size="15" fill="#d9e0ec" text-anchor="middle">열연코일을 풀어 편다</text>
+<path d="M238 155 L258 155" stroke="#14284b" stroke-width="3"/><path d="M258 148 L266 155 L258 162 Z" fill="#14284b"/>
+<rect x="30" y="232" width="204" height="96" rx="10" fill="#f5f7fa" stroke="#d5dbe5"/>
+<text x="132.0" y="264" font-size="14" fill="#5b6475" text-anchor="middle">쌓이는 데이터</text>
+<text x="132.0" y="298" font-size="17" font-weight="600" fill="#1d2433" text-anchor="middle">규격·재질 성적서</text>
+<path d="M132.0 332 L132.0 352" stroke="#5b6475" stroke-width="2"/>
+<rect x="30" y="356" width="204" height="96" rx="10" fill="#ffffff" stroke="#14284b" stroke-width="2"/>
+<text x="132.0" y="388" font-size="14" fill="#5b6475" text-anchor="middle">AI 적용</text>
+<text x="132.0" y="422" font-size="17" font-weight="700" fill="#14284b" text-anchor="middle">소재 편차 ↔ 불량 관계</text>
+<rect x="264" y="100" width="204" height="110" rx="10" fill="#14284b"/>
+<text x="366.0" y="148" font-size="22" font-weight="700" fill="#fff" text-anchor="middle">조관(성형)</text>
+<text x="366.0" y="180" font-size="15" fill="#d9e0ec" text-anchor="middle">롤로 둥글게 만다</text>
+<path d="M472 155 L492 155" stroke="#14284b" stroke-width="3"/><path d="M492 148 L500 155 L492 162 Z" fill="#14284b"/>
+<rect x="264" y="232" width="204" height="96" rx="10" fill="#f5f7fa" stroke="#d5dbe5"/>
+<text x="366.0" y="264" font-size="14" fill="#5b6475" text-anchor="middle">쌓이는 데이터</text>
+<text x="366.0" y="298" font-size="17" font-weight="600" fill="#1d2433" text-anchor="middle">롤 회전·전류·진동</text>
+<path d="M366.0 332 L366.0 352" stroke="#5b6475" stroke-width="2"/>
+<rect x="264" y="356" width="204" height="96" rx="10" fill="#fdf1e8" stroke="#e8772e" stroke-width="2"/>
+<text x="366.0" y="388" font-size="14" fill="#5b6475" text-anchor="middle">AI 적용</text>
+<text x="366.0" y="422" font-size="17" font-weight="700" fill="#e8772e" text-anchor="middle">롤·베어링 예지보전</text>
+<rect x="498" y="100" width="204" height="110" rx="10" fill="#14284b"/>
+<text x="600.0" y="148" font-size="22" font-weight="700" fill="#fff" text-anchor="middle">ERW 용접</text>
+<text x="600.0" y="180" font-size="15" fill="#d9e0ec" text-anchor="middle">이음매를 전류로 붙인다</text>
+<path d="M706 155 L726 155" stroke="#14284b" stroke-width="3"/><path d="M726 148 L734 155 L726 162 Z" fill="#14284b"/>
+<rect x="498" y="232" width="204" height="96" rx="10" fill="#f5f7fa" stroke="#d5dbe5"/>
+<text x="600.0" y="264" font-size="14" fill="#5b6475" text-anchor="middle">쌓이는 데이터</text>
+<text x="600.0" y="298" font-size="17" font-weight="600" fill="#1d2433" text-anchor="middle">용접 전류·전압·속도</text>
+<path d="M600.0 332 L600.0 352" stroke="#5b6475" stroke-width="2"/>
+<rect x="498" y="356" width="204" height="96" rx="10" fill="#ffffff" stroke="#14284b" stroke-width="2"/>
+<text x="600.0" y="388" font-size="14" fill="#5b6475" text-anchor="middle">AI 적용</text>
+<text x="600.0" y="422" font-size="17" font-weight="700" fill="#14284b" text-anchor="middle">이상 조건 경보</text>
+<rect x="732" y="100" width="204" height="110" rx="10" fill="#14284b"/>
+<text x="834.0" y="148" font-size="22" font-weight="700" fill="#fff" text-anchor="middle">비파괴검사</text>
+<text x="834.0" y="180" font-size="15" fill="#d9e0ec" text-anchor="middle">용접부를 검사한다</text>
+<path d="M940 155 L960 155" stroke="#14284b" stroke-width="3"/><path d="M960 148 L968 155 L960 162 Z" fill="#14284b"/>
+<rect x="732" y="232" width="204" height="96" rx="10" fill="#f5f7fa" stroke="#d5dbe5"/>
+<text x="834.0" y="264" font-size="14" fill="#5b6475" text-anchor="middle">쌓이는 데이터</text>
+<text x="834.0" y="298" font-size="17" font-weight="600" fill="#1d2433" text-anchor="middle">검사 신호·판정 결과</text>
+<path d="M834.0 332 L834.0 352" stroke="#5b6475" stroke-width="2"/>
+<rect x="732" y="356" width="204" height="96" rx="10" fill="#ffffff" stroke="#14284b" stroke-width="2"/>
+<text x="834.0" y="388" font-size="14" fill="#5b6475" text-anchor="middle">AI 적용</text>
+<text x="834.0" y="422" font-size="17" font-weight="700" fill="#14284b" text-anchor="middle">판정 보조·불량 분류</text>
+<rect x="966" y="100" width="204" height="110" rx="10" fill="#14284b"/>
+<text x="1068.0" y="148" font-size="22" font-weight="700" fill="#fff" text-anchor="middle">절단·출하</text>
+<text x="1068.0" y="180" font-size="15" fill="#d9e0ec" text-anchor="middle">길이대로 잘라 내보낸다</text>
+<rect x="966" y="232" width="204" height="96" rx="10" fill="#f5f7fa" stroke="#d5dbe5"/>
+<text x="1068.0" y="264" font-size="14" fill="#5b6475" text-anchor="middle">쌓이는 데이터</text>
+<text x="1068.0" y="298" font-size="17" font-weight="600" fill="#1d2433" text-anchor="middle">생산 본수·로트 기록</text>
+<path d="M1068.0 332 L1068.0 352" stroke="#5b6475" stroke-width="2"/>
+<rect x="966" y="356" width="204" height="96" rx="10" fill="#ffffff" stroke="#14284b" stroke-width="2"/>
+<text x="1068.0" y="388" font-size="14" fill="#5b6475" text-anchor="middle">AI 적용</text>
+<text x="1068.0" y="422" font-size="17" font-weight="700" fill="#14284b" text-anchor="middle">로트별 품질 추적</text>
+<rect x="30" y="478" width="1140" height="56" rx="10" fill="#f5f7fa"/>
+<text x="50" y="512" font-size="17" fill="#1d2433">경영 AI(2장)는 이 흐름 바깥에서 붙는다 — 열연코일 구매·판가·수주 데이터로 마진 시나리오를 본다.</text>
+</svg>

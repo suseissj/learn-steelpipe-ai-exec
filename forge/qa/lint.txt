@@ -1,0 +1,7 @@
+learn-steelpipe-ai-exec: 블록 6개 · 퀴즈 5문항
+오류 0건 · 경고 5건
+  [경고] .claude\skills\learn-steelpipe-ai-exec\references\block0-ready.md: 수치 자리표시자 남음 ['{{expected:lots_rows}}', '{{expected:coil_rows}}', '{{expected:candidates_rows}}'] (4단계에서 채움)
+  [경고] .claude\skills\learn-steelpipe-ai-exec\references\block1-manufacturing-ai.md: 수치 자리표시자 남음 ['{{expected:avg_defect_rate}}', '{{expected:vib_anomaly_count}}', '{{expected:vib_noise_count}}'] (4단계에서 채움)
+  [경고] .claude\skills\learn-steelpipe-ai-exec\references\block2-margin-ai.md: 수치 자리표시자 남음 ['{{expected:coil_range_pct}}', '{{expected:margin_change_pp_up10}}', '{{expected:most_sensitive_product}}'] (4단계에서 채움)
+  [경고] .claude\skills\learn-steelpipe-ai-exec\references\block3-roadmap.md: 수치 자리표시자 남음 ['{{expected:top_pilot}}', '{{expected:top_pilot_multiple}}', '{{expected:top_by_effect}}'] (4단계에서 채움)
+  [경고] .claude\skills\learn-steelpipe-ai-exec\references\block5-share.md: 수치 자리표시자 남음 ['{{expected:top_pilot}}'] (4단계에서 채움)

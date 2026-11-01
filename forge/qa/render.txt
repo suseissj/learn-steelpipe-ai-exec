@@ -1,0 +1,7 @@
+render_check.py: 실행 불가 — 이 PC에 playwright 미설치 (ModuleNotFoundError)
+대체 확인 (2026-10-31, Claude 앱 안 브라우저, http://127.0.0.1:8765/index.html):
+- 콘솔 오류 0건, Chart.js 차트 3개 렌더, Pretendard 웹폰트 적용 확인
+- 데스크톱(654px): 가로 넘침 없음 (scrollWidth 638 ≤ 654)
+- 모바일(375×812): 가로 넘침 없음 (scrollWidth 375), 표 너비 343px로 화면 안에 들어옴
+- 수정: 거품 그래프 가로축 눈금(하·중·상) 표시, 휴대폰에서 표 숫자 열 줄바꿈 방지
+- preview.png 미생성 (playwright 필요)
